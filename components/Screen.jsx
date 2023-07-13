@@ -26,7 +26,6 @@ const Screen = () => {
             console.error(err);
         }
     }
-    /* can't find percentage */
     return (
         <View style={styles.container}>
             <View style={styles.displayNumber}>
